@@ -51,31 +51,31 @@ Building scalable web applications while exploring Backend Engineering, System D
 
 ## Languages
 
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=cpp,c,js"/>
 </p>
 
 ## Frontend
 
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,vite"/>
 </p>
 
 ## Backend
 
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=nodejs,express"/>
 </p>
 
 ## Database
 
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=postgres,prisma"/>
 </p>
 
 ## DevOps & Tools
 
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,postman"/>
 </p>
 
@@ -115,28 +115,16 @@ Production-style CRUD application built using Docker.
 
 # 📊 GitHub Analytics
 
+## 📊 GitHub Stats
+
 <p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=OM3GA-11&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=OM3GA-11&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OM3GA-11&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OM3GA-11&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
----
-
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=OM3GA-11&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=OM3GA-11&theme=tokyo-night"/>
-
+  <img width="70%" src="https://streak-stats.demolab.com?user=OM3GA-11&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
