@@ -1,16 +1,17 @@
-## Hi there 👋
+<p align="center">
+  <img src="./assets/banner.png" alt="Banner" width="100%" />
+</p>
 
-<!--
-**OM3GA-11/OM3GA-11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Priyanshu Chaudhary</h1>
 
-Here are some ideas to get you started:
+<h3 align="center">
+Full Stack Developer • React • Node.js • PostgreSQL • Docker
+</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+Building scalable web applications and continuously learning backend engineering, distributed systems and system design.
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React+%7C+Node.js+%7C+PostgreSQL;Docker+Enthusiast;Always+Learning+New+Technologies"/>
+</p>
