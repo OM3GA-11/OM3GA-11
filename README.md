@@ -17,11 +17,11 @@ Building scalable web applications while exploring Backend Engineering, System D
 </p>
 
 <p align="center">
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://in.linkedin.com/in/priyanshu-chaudhary-1b362b289YOUR_LINKEDIN_URL">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:chaudharyrishabh200@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
