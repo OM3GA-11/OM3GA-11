@@ -15,3 +15,17 @@ Building scalable web applications and continuously learning backend engineering
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React+%7C+Node.js+%7C+PostgreSQL;Docker+Enthusiast;Always+Learning+New+Technologies"/>
 </p>
+---
+
+## 🚀 About Me
+
+<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+
+- 🎓 B.Tech Computer Science Student
+- 💻 Passionate Full Stack Developer
+- 🚀 Building scalable web applications using React, Node.js & PostgreSQL
+- 🐳 Exploring Docker, System Design and Distributed Systems
+- 📚 Solving Data Structures & Algorithms regularly
+- 🎯 Goal: Become a Software Engineer and build products used by millions
+
+<br clear="right"/>
